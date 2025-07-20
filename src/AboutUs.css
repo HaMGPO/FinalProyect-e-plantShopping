@@ -1,11 +1,12 @@
-.about-us-container {
-    width: 1000px;
-    /* margin: 0 auto; */
-    /* padding: 20px; */
-    /* background-color: red; */
-    text-align: justify;
+  .about-us-container {
+    width: 90vw;
+    max-width: 800px;
+    margin: 12px auto;
+    padding: 0 16px;
+    box-sizing: border-box;
+    word-wrap: break-word;
   }
-  
+
   .about-us-heading {
     font-size: 32px;
     font-weight: bold;
