@@ -260,6 +260,7 @@ body {
       max-width: calc(33.33% - 20px); /* Adjust max-width for 3 cards per row with 20px gap on medium screens */
     }
   }
+
   
   @media (max-width: 768px) {
     .product-card {
